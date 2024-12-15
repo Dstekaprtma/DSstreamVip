@@ -1046,6 +1046,11 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734269343/ei/P4VeZ9OKF_z0z7sP49Wf6Q0/ip/114.5.105.39/id/7GhrHzovHrw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/x-caULKtWam3fgHGH1NMHinodOXS8kAkDG-YUUCA3wknqWUwK-S5kl4IHpWoqnR4sQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51331020%2C51335594%2C51347747/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANMaeaDSWP_Kb4fl2AlQCzLW23vfaAogh8V_-ki1YyD6AiEA1jNy9jnnkfxQ33pOlHoKw6MgngeAeaqKdpdAv7DZPBQ%3D/file/index.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3VGK0YwkHBriTiMQMrTlelFfB0WLTfX6NmOkemOazeirGvuKivRT3xaUWJn3HPEpHwndmbhZstCgJcCvaBQLKIvdmSLIiUUCbuo5fxBfhl_TzDJ3UjeCYp-AZ5HD18jhRz432nS97PKrKDFD63lLlS6xDgd4GgNPbSCaFPdWsI4hgJcam2Vnf3Nh-TxY/s320/1000008744.jpg" group-title="[DS] LIVE EVENT BOLA 👑", INDONESIA 🆚 VIETNAM
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
 
 =====DSSTREAM CH NASIONAL=====
 
