@@ -2076,7 +2076,9 @@ There are no files here
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFyZs9u4iDaiqbFG-aWEf900WAQU4sUZIkYeFJo1LlxwskqLsKjzJdtik1d7z0nwRHBYMwuxFXT1hg5OPurO7XsgjoQKoqXzdsImrX8nVAe4kVtoNqvspqMorNWTN-doEmXTvzt1yAXxkBq1g48b8JdrsHiuSWjUD0Aip9qkZtmBwecegVkw7SfbtZyV0/s719/1000009512.png" group-title="🔴LIVE PENGAJIAN HARI INI", ID: GUS IQDAM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734379890/ei/EjVgZ-a7CNC2juMPqMX7uAY/ip/114.5.105.163/id/NZGNWYhCobg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/spc/x-caUCsh0o7oruxDXqvrmFvChZnyW99Q1-NCvU9Rhhmio8WalbPEFZAFEsjM0U6lsQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51331020%2C51335594%2C51347747/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgV7m8wHHkjZf5oPND4MMtW1K_lkMpQRse8kBgkPcBb00CIBivbY-zHXvgDPVTBTB4levpwS2Tts2DmjqUoWWL4lQ8/file/index.m3u8
 
 
 
