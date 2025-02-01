@@ -703,15 +703,6 @@ https://unifi-live31.secureswiftcontent.com/UnifiHD/live31.mpd
 
 
 
-#EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaWx6VA9dNluJjtEXI2PIES9IfocDr6d9owaCxt6rL-HdDlxbmNf_WdSEp&amp;s=10" group-title="[DS] CHANNEL CAMPURAN", SPORT STAR 3
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenx.my.id/vision/index2.mpd?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.3677777777
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jktglobe.png" group-title="[DS] CHANNEL CAMPURAN",JAKARTA GLOBE
@@ -1918,60 +1909,6 @@ https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.t
 #EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 12
 https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra12/xtra12.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=16a2d39eb1ab526491cb75bbcdd36c11:d4ac894a6f201ae733bbd49bc205c523
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 13
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra13/xtra13.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2639c53b83ab569ea7604f6d7254cf07:b71453d8ac148772851f075812cc4ff2
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 14
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra14/xtra14.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5069ccd6e77d5f09918744ab2a1e59bd:79afa7c076f08438d951b2b50655a633
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 15
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra15/xtra15.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50bc507cbe9659beabcf6dcc66101337:e2e7f3b7f6754778ebbd5946915ba2f4
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 16
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra16/xtra16.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e482d02225d05cb68d8a0cd66bacee8b:f77b436d0893db1f70627c0ceac0553d
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 17
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra17/xtra17.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82e7f7bb461a57b9b1f83ec4cf9760c6:24aff08822e2632f25eaeb80178499b7
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 18
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra18/xtra18.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fc2fcb3779458d9a8789c54ee1bc7b0:6faead88837a154db20fddab0358a32f
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 19
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra19/xtra19.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5277738f1ea154ca9bd43e4e448f3951:8391d0701a3a7b724d48cb5a3f7c3e4a
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 20
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra20/xtra20.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5238eceaf0655fc8af760cdd636c7426:1176ce340c82b3f07299e9abff731b85
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 21
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra21/xtra21.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd58d2619a9057d3a48fcc0a0f271549:d3ad44278dc2cf752e49a3ba26b69c4f
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 22
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra22/xtra22.isml/index.mpd|X-Forwarded-For=13.106.174.0
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6a3dbc917815dc7b6072a68d5a4f97d:547e9756fbf8ccccdc64b1302c606f48
-#EXTINF:-1 group-title="[DS] SPORT PREM👑" group-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png", Viaplay Extra 23
-https://thedream.biz.id/prokci/proxy.php/https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/xtra23/xtra23.isml/index.mpd|X-Forwarded-For=13.106.174.0
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fde4b0dd77895f818b4a2d6eec75291c:91a7a8f680428ff44a5b9bfeb036d22f
