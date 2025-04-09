@@ -7,11 +7,39 @@
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/04/07/6efe5952-5fe3-4874-96ee-8ee7bf4d2e5d/TIMEZONES_ESCUTS.jpg?width=1200&amp;height=750", Barcelona 🆚 Dortmund 02.00wib
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bintangstreaming.my.id/scorevisit/pro.php/.m3u8?id=1629433891
+
+
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRee__bNfkN4tV_uOid4P7r9XXoUcYvtWhPPiMqmRutJxuyrJzJ3BKC7B&amp;s=10", Lazio 🆚 Bodo Glimt 23:45
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRee__bNfkN4tV_uOid4P7r9XXoUcYvtWhPPiMqmRutJxuyrJzJ3BKC7B&amp;s=10", Lazio 🆚 Bodo Glimt 23:45
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bintangstreaming.my.id/scorevisit/pro.php/.m3u8?id=1629433938
+
+
+
 #EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNwb4UFSMUec77vbBRx6ZAwt_NnDeZHcXnq8LSrtSynSp81Q5IHSV1Zw&amp;s=10", PSG 🆚 Aston Villa 02.00wib
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNwb4UFSMUec77vbBRx6ZAwt_NnDeZHcXnq8LSrtSynSp81Q5IHSV1Zw&amp;s=10", PSG 🆚 Aston Villa 02.00wib
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://bintangstreaming.my.id/scorevisit/pro.php/.m3u8?id=1629433892
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://thumbor.prod.vidiocdn.com/80LykyXY3PoK9iT9FL-rt5iTT_g=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/12792/psm-makassar-vs-semen-padang-979195.jpg", PSM 🆚 SemenPadang 15.30wib
