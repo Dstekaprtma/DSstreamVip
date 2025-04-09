@@ -1,4 +1,52 @@
-#EXTINF:-1 tvg-id="tvking" group-title="[LIVE EVENT]" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1KItr6biGlja8MQAUz4ih9Zl0BNKMPkEyGJ5VDY4P9xMzJ3YEoxkX7-V1OMAFIxuhbdabEgsdURo-gdPcJiYGo4S5Adujvx87SO3JOIJh9ScE_OYJOTKS_GKImba3eyffbtqiwo30BOwCS1G8njpJzjk_MrUvn84MLfy6C56qdI581qlsLqlmfFgVrFQ/s320/1000049986.jpg" group-logo="",Antwerp vs Anderlecht - 02:45 WIB 07-02-2025
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mastertv.tech/towels.m3u8?id=19338148
+#EXTM3U
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://www.fcbarcelona.com/photo-resources/2025/04/07/6efe5952-5fe3-4874-96ee-8ee7bf4d2e5d/TIMEZONES_ESCUTS.jpg?width=1200&amp;height=750", Barcelona 🆚 Dortmund 02.00wib
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNwb4UFSMUec77vbBRx6ZAwt_NnDeZHcXnq8LSrtSynSp81Q5IHSV1Zw&amp;s=10", PSG 🆚 Aston Villa 02.00wib
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://thumbor.prod.vidiocdn.com/80LykyXY3PoK9iT9FL-rt5iTT_g=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/12792/psm-makassar-vs-semen-padang-979195.jpg", PSM 🆚 SemenPadang 15.30wib
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://thumbor.prod.vidiocdn.com/VqqB2gceCMJGUCkk-t9dxH0jETk=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27698/bali-united-fc-vs-dewa-united-fc-9a5b78.jpg", Bali United 🆚 Dewa United 19.00wib
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ubr9_8coOQiBk3QUKYB50TVGldtDNB8LiOX6T-mFyjaUP3a8WrB8LaXF&amp;s=10", Thailand 🆚 China 00.15wib
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+
+#EXTINF:-1 tvg-name="" group-title="🔴EVENT 10-4-2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Ubr9_8coOQiBk3QUKYB50TVGldtDNB8LiOX6T-mFyjaUP3a8WrB8LaXF&amp;s=10", Saudi Arabia 🆚 Uzbekistan 00.15wib
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
+https://dusk.biz.id/rp/index.mpd?id=113
+
+
+
