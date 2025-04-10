@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2025/04/10/185122.649-ini-link-live-streaming-timnas-indonesia-u-17-vs-afganistan-malam-ini-1.jpg", Indonesia u17 🆚 Afganistan u17
+https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_TNT_SPORTS_4/tracks-v1a1/mono.ts.m3u8
+
+
+
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531245430061_AiSD.m3u8?txSecret=e74a720f497273d263b85539e9b314d3&txTime=67F86990
