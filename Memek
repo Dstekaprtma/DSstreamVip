@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-1
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531245430061_AiSD.m3u8?txSecret=e74a720f497273d263b85539e9b314d3&txTime=67F86990
 
@@ -54,14 +56,14 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 
 
 
-#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14v3avyw4g1fp18qrvo3cq2xy8_image-header_pRow_1743495727000&amp;quality=70", Tottenham Hotspur 🆚 Eintracht Frankfurt 2.00wib-11-apr-2025
+#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsPlw8UryWW7d0phXty3ETzl6xucw07KDr6pqIRozNbwazMhRqdV-GcIMi&amp;s=10", Tottenham Hotspur 🆚 Eintracht Frankfurt 2.00wib-11-apr-2025
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
-#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14v3avyw4g1fp18qrvo3cq2xy8_image-header_pRow_1743495727000&amp;quality=70", Olympique Lyonnais 🆚 Manchester United 2.00wib-11-apr-2025
+#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjE6nYWp6-mC_AoJ2-zONGajsdrKnAJzpVxCZG747HcUS4TdFozp0A1Sk&amp;s=10", Olympique Lyonnais 🆚 Manchester United 2.00wib-11-apr-2025
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
