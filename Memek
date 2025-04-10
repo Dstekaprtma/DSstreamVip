@@ -1,26 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531245430061_AiSD.m3u8?txSecret=e74a720f497273d263b85539e9b314d3&txTime=67F86990
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531433406061_AiSD.m3u8?txSecret=5b39db37eab4c6c456b68b3784721266&txTime=67F86990
 
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531602674061_AiHD.m3u8?txSecret=680fbdc26a5b8c35bb303ab7e4e052d6&txTime=67F86990
 
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTauilWqjdcTxAv-8kSmAYsJcijZn3Imxy6uMuHrr9B4NPD_FBpLLMF8Q&amp;s=10", 🏸Court-4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://89eef889586de52fd5caceec0e167ca8.v.smtcdns.net/203.205.136.13/play.cbalive.weibisai.com/live/3861531810936061_AiHD.m3u8?txSecret=362f544e81b26d9d42d1e175c4066abe&txTime=67F86990
 
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://i.ytimg.com/vi/WUeMW9yBunk/hq720.jpg?v=67ea9541&amp;sqp=CPyn078G-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&amp;rs=AOn4CLD5-ag3rin99qaWNVVJdJvSNWlXqw", Svay Rieng 🆚 Madura United 19.00wib 10-apr-2025
-https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8 
 
 
 #EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPlRnzpFQk8iAf5SUBnhRii_RBBMWhE9L93uqFnzzV8-bBY9mLnSKvHMo&amp;s=10", Al-Shabab 🆚 Al-Kholood 23.00wib 10-apr-2025
@@ -72,7 +77,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 
+#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzQf7P9CeGWSK_qysQhi-END2S_VbSGajGLW21e6SuggQ1zT5fc739MD7&amp;s=10", Liga Konoha
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://hls.uouetrq19.com/live/sd-6MsDBFWdd7D6hNno6F.m3u8?txSecret=c63198446f5ebd6f4276b58c8f671e2f&txTime=67F8D30F
 
 
 
-
+#EXTINF:-1 tvg-name="" group-title="🔴LIVE-EVENT🔴" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzQf7P9CeGWSK_qysQhi-END2S_VbSGajGLW21e6SuggQ1zT5fc739MD7&amp;s=10", Liga Konoha
+https://pull.dangaoka.com/live/stream-388279_lsd.m3u8?auth_key=1744277188-0-0-29751eaecc5fa691eb5202bf9fa2d005
