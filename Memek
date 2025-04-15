@@ -50,41 +50,15 @@ https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh83RfVnKMxBpz6OwFRzXvjcPUZPJjWY-POTOYxou3ICtEKde4tSkUYJqq&amp;s=10", AVENGERS: INFINITY WAR (2018)
 https://cloud.hownetwork.xyz/xxx/cb34b42763d0f609f2873bc2dbc6d956/31/480.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",Test
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0003.ts?wsSecret=a7bc95e45b931a25fed17a684b724b63&wsTime=67fe3dea
-http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0004.ts?wsSecret=a7bc95e45b931a25fed17a684b724b63&wsTime=67fe3dea
-http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0005.ts?wsSecret=a7bc95e45b931a25fed17a684b724b63&wsTime=67fe3dea
-http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0006.ts?wsSecret=a7bc95e45b931a25fed17a684b724b63&wsTime=67fe3dea
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tRyygB1OizXdu0yvgKPw-YPhQPHncFt78KlJVCfLvAtfG66vTLE_HFA&amp;s=10", AGAK LAEN
+#EXTVLCOPT:http-referrer=http://172.96.161.72/ 
+https://cookie.9bg.net/crVpZGXrQtgI_aXeTOOhnupS_t6ct9ALrMuHkKQUJ0jOxaqq1z00CE1BjypsFyunj0Kyz5LOGeTqPT1ovTdrjg/mBoIE-f_ObPLKQDICnDU0wHY8QbS7O7mVxoQnWV33QM/720.m3u8 
 
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZgMfYq9BgfH9KncJavyOVihbr8XgiyR_K4IPMEkLJ_-rH0vql_5iDHo-&amp;s=10", FINDING NEMO (2003)
+https://cloud.hownetwork.xyz/xxx/31329be07575faf58edb11eab828e411/1/480.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",PUSAKA
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://akbbm.c32i.com/vod/2/2025/04/15/c54c612bf194/0002.ts?wsSecret=8395a8961b42d8d310324013661ac60c&wsTime=67fe5a11
-http://akbbm.c32i.com/vod/2/2025/04/15/c54c612bf194/0003.ts?wsSecret=8395a8961b42d8d310324013661ac60c&wsTime=67fe5a11
-http://akbbm.c32i.com/vod/2/2025/04/15/c54c612bf194/0004.ts?wsSecret=8395a8961b42d8d310324013661ac60c&wsTime=67fe5a11
-http://akbbm.c32i.com/vod/2/2025/04/15/c54c612bf194/0005.ts?wsSecret=8395a8961b42d8d310324013661ac60c&wsTime=67fe5a11
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJB6LNRD__Q2rbaVUxgpSpA2rWwLNJlh7-OkXya5o5Ys9W0_HhEjaTkok&amp;s=10", TOY STORY 2 (1999)
+https://cloud.hownetwork.xyz/xxx/dad1e88e61f0ef28d9b037ca54f98b7f/3/480.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",GUNA-GUNA ISTRI MUDA
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://akbbm.c32i.com/vod/2/2025/04/05/2441d9751bca/0237.ts?wsSecret=9bfc7205bf7f8d31f2c88ea0e6388e6c&wsTime=67fe5f8f
-http://akbbm.c32i.com/vod/2/2025/04/05/2441d9751bca/0238.ts?wsSecret=9bfc7205bf7f8d31f2c88ea0e6388e6c&wsTime=67fe5f8f
-http://akbbm.c32i.com/vod/2/2025/04/05/2441d9751bca/0239.ts?wsSecret=9bfc7205bf7f8d31f2c88ea0e6388e6c&wsTime=67fe5f8f
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQluBhBTQQ_Xv2NcYSeOkKOOSOYFrEDh6r5myJjO307IfjJxRDZpFFTOCt&amp;s=10", JURASSIC TRIANGLE (2024)
+https://cloud.hownetwork.xyz/xxx/9ff1a47d2e6350f530d18163b0caba98/27/480.m3u8
