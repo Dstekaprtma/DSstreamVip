@@ -1,3 +1,4 @@
+Playlist By FOXstream
 
 #EXTM3U
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTklCg7K64Qd1Rh1OZyUi2ADSmzUBSO8vs1ywRt1_ZwQVmJC1dlUNqCg&amp;s=10", DONGENG SANG KANCIL (2024)
@@ -49,7 +50,7 @@ https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh83RfVnKMxBpz6OwFRzXvjcPUZPJjWY-POTOYxou3ICtEKde4tSkUYJqq&amp;s=10", AVENGERS: INFINITY WAR (2018)
 https://cloud.hownetwork.xyz/xxx/cb34b42763d0f609f2873bc2dbc6d956/31/480.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="VOD TEST",Test
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",Test
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -62,7 +63,7 @@ http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0005.ts?wsSecret=a7bc95e45b9
 http://akbbm.c32i.com/vod/2/2025/04/15/1dada2cd3c1c/0006.ts?wsSecret=a7bc95e45b931a25fed17a684b724b63&wsTime=67fe3dea
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="VOD TEST",PUSAKA
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",PUSAKA
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
@@ -77,7 +78,7 @@ http://akbbm.c32i.com/vod/2/2025/04/15/c54c612bf194/0005.ts?wsSecret=8395a8961b4
 
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="VOD TEST",GUNA-GUNA ISTRI MUDA
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/nkmKjX3/20240903-004502.jpg" group-title="(📽️VOD PREMIUM)",GUNA-GUNA ISTRI MUDA
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
