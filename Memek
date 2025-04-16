@@ -1,4 +1,5 @@
 Playlist By FOXstream
+Dilarang Mengambil Playlist Ini Tanpa Izin
 
 #EXTM3U
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTklCg7K64Qd1Rh1OZyUi2ADSmzUBSO8vs1ywRt1_ZwQVmJC1dlUNqCg&amp;s=10", DONGENG SANG KANCIL (2024)
@@ -50,10 +51,6 @@ https://cloud.hownetwork.xyz/xxx/f380452ec990ffa0b5fa871b2c091a16/31/480.m3u8
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh83RfVnKMxBpz6OwFRzXvjcPUZPJjWY-POTOYxou3ICtEKde4tSkUYJqq&amp;s=10", AVENGERS: INFINITY WAR (2018)
 https://cloud.hownetwork.xyz/xxx/cb34b42763d0f609f2873bc2dbc6d956/31/480.m3u8
 
-#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9tRyygB1OizXdu0yvgKPw-YPhQPHncFt78KlJVCfLvAtfG66vTLE_HFA&amp;s=10", AGAK LAEN
-#EXTVLCOPT:http-referrer=http://172.96.161.72/ 
-https://cookie.9bg.net/crVpZGXrQtgI_aXeTOOhnupS_t6ct9ALrMuHkKQUJ0jOxaqq1z00CE1BjypsFyunj0Kyz5LOGeTqPT1ovTdrjg/mBoIE-f_ObPLKQDICnDU0wHY8QbS7O7mVxoQnWV33QM/720.m3u8 
-
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMZgMfYq9BgfH9KncJavyOVihbr8XgiyR_K4IPMEkLJ_-rH0vql_5iDHo-&amp;s=10", FINDING NEMO (2003)
 https://cloud.hownetwork.xyz/xxx/31329be07575faf58edb11eab828e411/1/480.m3u8
 
@@ -62,3 +59,9 @@ https://cloud.hownetwork.xyz/xxx/dad1e88e61f0ef28d9b037ca54f98b7f/3/480.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQluBhBTQQ_Xv2NcYSeOkKOOSOYFrEDh6r5myJjO307IfjJxRDZpFFTOCt&amp;s=10", JURASSIC TRIANGLE (2024)
 https://cloud.hownetwork.xyz/xxx/9ff1a47d2e6350f530d18163b0caba98/27/480.m3u8
+
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrUcgM5xGZtVbCoewUnq2_amfyCBveKikVgHDGQH0yiXvuT_4xdn0l7Ao&amp;s=10", KAIN KAFAN HITAM
+https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-name="" group-title="(📽️VOD PREMIUM)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwuuD2lsmyVlOwfSZKW7e13C7BPgi_PX-QDytVX8UM5CE84kidTtkMQAG&amp;s=10", YOWIS BEN 3
+https://www.googleapis.com/drive/v3/files/1ar6ZwvbzkugMVmVvR5s4-VnVuHUtejVV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
